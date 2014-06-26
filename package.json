@@ -1,0 +1,44 @@
+{
+  "name": "grunt-cssshrink",
+  "description": "Grunt wrapper for cssshrink",
+  "version": "0.0.1",
+  "homepage": "https://github.com/JohnCashmore/grunt-cssshrink",
+  "author": "John Cashmore <cashy@whoooop.co.uk>",
+  "maintainers": [
+    {
+      "name": "John Cashmore",
+      "email": "cashy@whoooop.co.uk",
+      "web": "http://whoooop.co.uk"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "John Cashmore",
+      "email": "cashy@whoooop.co.uk"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnCashmore/grunt-cssshrink.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JohnCashmore/grunt-cssshrink/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/JohnCashmore/grunt-cssshrink/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin",
+    "cssshrink"
+  ]
+}
