@@ -13,7 +13,7 @@ module.exports = function(grunt) {
   grunt.registerMultiTask('cssshrink', 'Shrinks css.', function() {
 
     // Require stuff
-    var parseCss = require('cssshrink');
+    var cssshrink = require('cssshrink');
     var path = require('path');
     var error = true;
 
