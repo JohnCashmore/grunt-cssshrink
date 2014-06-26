@@ -1,7 +1,3 @@
-grunt-cssshrink
-===============
-
-
 # CSS Shrink
 
 This is just a grunt wrapper for [CSS Shrink](https://github.com/stoyan/cssshrink), i didn't really do much.
