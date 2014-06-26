@@ -1,7 +1,7 @@
 {
   "name": "grunt-cssshrink",
   "description": "Grunt wrapper for cssshrink",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/JohnCashmore/grunt-cssshrink",
   "author": "John Cashmore <cashy@whoooop.co.uk>",
   "maintainers": [
@@ -41,7 +41,7 @@
     "gruntplugin",
     "cssshrink"
   ],
-  "devDependencies": {
+  "dependencies": {
     "cssshrink": "0.0.3"
   }
 }
