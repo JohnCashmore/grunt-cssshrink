@@ -40,5 +40,8 @@
   "keywords": [
     "gruntplugin",
     "cssshrink"
-  ]
+  ],
+  "devDependencies": {
+    "cssshrink": "0.0.3"
+  }
 }
