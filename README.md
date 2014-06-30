@@ -1,3 +1,4 @@
+[![Dependency Status](https://david-dm.org/JohnCashmore/grunt-cssshrink.svg)](https://david-dm.org/JohnCashmore/grunt-cssshrink)
 # CSS Shrink
 
 This is just a grunt wrapper for [CSS Shrink](https://github.com/stoyan/cssshrink), i didn't really do much.
@@ -67,4 +68,5 @@ grunt.initConfig({
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
+* 30-06-14 - v0.0.7 - Various fixes
 * 13-02-14 - v0.0.4 - Useable release
