@@ -1,4 +1,4 @@
-[![Dependency Status](https://david-dm.org/JohnCashmore/grunt-cssshrink.svg)](https://david-dm.org/JohnCashmore/grunt-cssshrink)
+[![Dependency Status](https://david-dm.org/JohnCashmore/grunt-cssshrink.svg)](https://david-dm.org/JohnCashmore/grunt-cssshrink) [![Code Climate](https://codeclimate.com/github/JohnCashmore/grunt-cssshrink/badges/gpa.svg)](https://codeclimate.com/github/JohnCashmore/grunt-cssshrink)
 # CSS Shrink
 
 This is just a grunt wrapper for [CSS Shrink](https://github.com/stoyan/cssshrink), i didn't really do much.
